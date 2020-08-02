@@ -1,10 +1,10 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use git and github together
+This is a simple website project for showing how to use git and github together.
 
 ## Introduction
 
-This is example shows different parts of the git repository and various commands using a web project
+This is example shows different parts of the git repository and various commands using a web project. Adding some text using the master branch to rebase to the feature branch
 
 ## Purpose
 
